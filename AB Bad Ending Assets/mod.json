@@ -1,13 +1,14 @@
 {
-	"name" : "Antagarich Burning - map assets",
+	"name" : "Antagarich Burning",
 	"description" : "Assets for a set of maps featuring Forge.",
 	
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.3.1",
+	"version" : "1.3.2",
 	"modType" : "Expansion",	
 	"changelog" :
 	{
+		"1.3.2" : [ "Czech translation by George King" ],
 		"1.3.1" : [ "Grand Conflux Update to vcmi-1.6 format" ],
 		"1.3.0" : [ "Update to vcmi-1.6 format" ],
 		"1.2.9" : [ "Fix more rewardable objects chances" ],
@@ -29,7 +30,14 @@
 		"translations" : [
 			"translation/ab-bad-ending-assets/chinese.json"
 		]
-	},	
+	},
+	"czech" : {
+		"name" : "Hořící Antagarich",
+		"description" : "Prostředí pro sadu map s Kovárnou.",
+		"translations" : [
+			"translation/ab-bad-ending-assets/czech.json"
+		]
+	},
 	"compatibility" :
 	{
 		"min" : "1.6.0"
