@@ -38,6 +38,13 @@
 			"translation/ab-bad-ending-assets/czech.json"
 		]
 	},
+	"russian" : {
+		"name" : "Пылающий Антагарич",
+		"description" : "Ресурсы для набора карт с участием Forge.",
+		"translations" : [
+			"translation/ab-bad-ending-assets/russian.json"
+		]
+	},
 	"compatibility" :
 	{
 		"min" : "1.6.0"
