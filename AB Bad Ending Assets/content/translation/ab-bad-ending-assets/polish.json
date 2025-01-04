@@ -56,5 +56,18 @@
 	"mapObject.ab-bad-ending-assets.abbe_gypsyCaravan.default.onSelect": "{Cygańska Karawana}\r\n\r\nGrupa przyjaznych Cyganów oferuje naprawę pęknięć w twojej zbroi (koszt: 500) lub zakup błyszczącego talizmanu (koszt: 1500).",
 	"mapObject.ab-bad-ending-assets.abbe_gypsyCaravan.default.onVisited": "{Cygańska Karawana}\r\n\r\nCyganie nie mają nic więcej do zaoferowania temu bohaterowi.",
 	"mapObject.ab-bad-ending-assets.abbe_spellbook.default.name": "Zniszczona Księga Zaklęć",
-	"mapObject.ab-bad-ending-assets.abbe_spellbook.default.onSelect": "{Zniszczona Księga Zaklęć}\r\n\r\nZnalazłeś porzuconą Księgę Zaklęć. Możesz nauczyć się zawartego tam zaklęcia lub przekazać ją do najbliższej Gildii Magii w zamian za kilka klejnotów."
+	"mapObject.ab-bad-ending-assets.abbe_spellbook.default.onSelect": "{Zniszczona Księga Zaklęć}\r\n\r\nZnalazłeś porzuconą Księgę Zaklęć. Możesz nauczyć się zawartego tam zaklęcia lub przekazać ją do najbliższej Gildii Magii w zamian za kilka klejnotów.",
+	"mapObject.ab-bad-ending-assets.abbe_gypsyCaravan.default.rewards.0" : "{Karawana Cyganów}\r\n\r\nGrupa przyjaznych Cyganów oferuje naprawienie pęknięć w twojej zbroi (koszt: 500). Wygląda też na to, że mają jakieś błyskotki, ale nie masz wystarczającej ilości złota na handel.",
+	"mapObject.ab-bad-ending-assets.abbe_stoneHenge.default.onEmpty" : "{Kamienny Krąg}\r\n\r\nAlbo nie jesteś w stanie zrozumieć błogosławieństwa starożytnego pomnika, albo moc kamieni jest obecnie uśpiona. Sprawdź jutro, by się upewnić.",
+	"mapObject.ab-bad-ending-assets.abbe_stoneHenge.default.rewards.1" : "{Kamienny Krąg}\r\n\r\nPowietrze pulsuje wokół wzniesionych kamieni, ukazując, że nadal obecna jest w nich starożytna moc. Wchodząc do środka kręgu, czujesz, jak błogosławieństwo przenika cię.",
+	"object.ab-bad-ending-assets.abbe_crumblingWell.name" : "Waląca się Studnia Magiczna",
+	"object.ab-bad-ending-assets.abbe_gypsyCaravan.name" : "Karawana Cyganów",
+	"object.ab-bad-ending-assets.abbe_spellbook.name" : "Zniszczona Księga Zaklęć",
+	"object.ab-bad-ending-assets.abbe_stoneHenge.name" : "Kamienny Krąg",
+	"spell.ab-bad-ending-assets.abbe_insidesout.description.advanced" : "Zabija 50% jednostek w stosie i minimalizuje morale pozostałych.",
+	"spell.ab-bad-ending-assets.abbe_insidesout.description.basic" : "Zabija 50% jednostek w stosie i minimalizuje morale pozostałych.",
+	"spell.ab-bad-ending-assets.abbe_insidesout.description.expert" : "Zabija 50% jednostek w stosie i minimalizuje morale pozostałych.",
+	"spell.ab-bad-ending-assets.abbe_petrify.description.advanced" : "Petryfikuje grupę wrogów.",
+	"spell.ab-bad-ending-assets.abbe_petrify.description.basic" : "Petryfikuje grupę wrogów.",
+	"spell.ab-bad-ending-assets.abbe_petrify.description.expert" : "Petryfikuje grupę wrogów."
 }
